@@ -1,0 +1,3 @@
+﻿  Rogov_pr31_7prakt.cpp
+C:\Users\Drunchik\source\repos\Rogov_pr31_7prakt\Rogov_pr31_7prakt\Rogov_pr31_7prakt.cpp(117,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Rogov_pr31_7prakt.vcxproj -> C:\Users\Drunchik\source\repos\Rogov_pr31_7prakt\x64\Debug\Rogov_pr31_7prakt.exe
